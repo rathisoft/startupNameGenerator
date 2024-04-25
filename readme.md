@@ -1,5 +1,3 @@
-Sure, I can help you create a README file for your GitHub repository. Here's a basic template that you can customize for your Startup Idea Generator project:
-
 ```markdown
 # Startup Idea Generator
 
