@@ -39,5 +39,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 ```
-
-Remember to replace the placeholder texts with your actual data where necessary, and add any additional sections that might be relevant to your project, such as 'Background', 'Built With', 'Authors', 'Acknowledgments', etc. Good luck with your project! 🚀
